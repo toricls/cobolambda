@@ -1,0 +1,20 @@
+{
+  "name": "cobolambda",
+  "version": "1.0.0",
+  "description": "Cobol on AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toricls/cobolambda.git"
+  },
+  "author": "toricls",
+  "license": "MIT",
+  "homepage": "https://github.com/toricls/cobolambda",
+  "readme": "README.md",
+  "dependencies": {
+    "cobolscript": "ajlopez/CobolScript"
+  }
+}
