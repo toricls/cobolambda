@@ -12,6 +12,10 @@ Serverless COBOL on AWS Lambda.
 ## Overview
 ![Overview](https://github.com/toricls/cobolambda/wiki/res/overview.png)
 
+## Usage
+
+Don't.
+
 ## Configure & Deploy
 
 We need both npm and [aws-cli](https://aws.amazon.com/cli/) to configure and deploy.
